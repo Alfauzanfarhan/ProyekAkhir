@@ -1,0 +1,9 @@
+Nama : Farhan Al Fauzan
+ID Dicoding : MC180D5Y1028
+
+Library yang digunakan dalam proses analisis data adalah
+
+1. import numpy as np (library fundamental untuk komputasi numerik)==1.26.4
+2. import pandas as pd (untuk analisis data dalam bentuk kolom dan baris)==2.2.2
+3. import matplotlib.pyplot as plt (library untuk visualisasi data)==
+4. import seaborn as sns (library visualisasi data pada matplotlib)==0.13.2
